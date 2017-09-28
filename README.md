@@ -1,6 +1,7 @@
 # SocialBot
 
-Trabajo de Fin de Grado realizado junto a @dkesada . Este proyecto es un bot de Telegram utilizando la API de telepot
+Trabajo de Fin de Grado realizado junto a @dkesada . Este proyecto es un bot de Telegram utilizando la API de telepot.
+
 Final Project of the Degree done with @dkesada. This project is a Telegram bot using the telepot API
 
 

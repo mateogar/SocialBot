@@ -8,7 +8,9 @@ Final Project of the Degree done with @dkesada. This project is a Telegram bot u
 Telegram es una aplicación de mensajería instantánea móvil y de escritorio basada en la nube. Esta aplicación, como la mayor parte de las aplicaciones de mensajería instantánea, permite intercambiar mensajes y archivos de todo tipo. En 2016 conseguía llegar a los 100 millones de usuarios y sus servidores procesaban 15 mil millones de mensajes al día.
 
 Una de los principales atractivos de Telegram es su plataforma para bots. Los usuarios pueden crear sus propios bots y ponerlos en funcionamiento para que sean accesibles a todos los clientes de Telegram sin coste alguno para el desarrollador o para el consumidor. Estos bots proporcionan en su mayoría información, juegos o utilidades dentro de un chat, y aumentan en gran medida la funcionalidad de Telegram.
+
 Gracias a esto, hoy en día Telegram no se limita sólo a la mensajería instantá- nea, sino que también actúa como un asistente personal virtual. Los asistentes virtuales son una característica fundamental en dispositivos móviles, facilitando el día a día de los usuarios y ofreciéndoles información que les es relevante en cualquier momento que lo necesiten. Los bots de Telegram le hacen especialmente potente en este ámbito, ya que continuamente aparecen bots que dotan a Telegram de nuevas capacidades como asistente personal.
+
 A la hora de que un usuario interactúe con un bot, es especialmente interesante que el servicio que se le preste pueda depender de su ubicación geográfica y pueda tener un componente social. Por ello, este proyecto tiene como objetivo informar al usuario sobre qué establecimientos cercanos hay en base a su localización, ofreciendo la posibilidad de encontrarlos fácilmente y de ver datos proporcionados por otros usuarios sobre estos.
 
 # Abstract
